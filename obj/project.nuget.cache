@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2SaxKoo8Vhz9iR4IGLGLhatAS5OnupKQ0E7K+1smakaHIojYG5kOdWcBmeqKVnEpIFrerDEKdMEh79pyCQn5w==",
+  "success": true,
+  "projectFilePath": "/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/MyFirstConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "/home/mischak/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/home/mischak/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

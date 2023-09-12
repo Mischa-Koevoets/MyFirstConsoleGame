@@ -1,0 +1,30 @@
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.exe
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.deps.json
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.runtimeconfig.json
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.dll
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.pdb
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.csproj.AssemblyReference.cache
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.AssemblyInfoInputs.cache
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.AssemblyInfo.cs
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.csproj.CoreCompileInputs.cache
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.dll
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/refint/MyFirstConsoleGame.dll
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.pdb
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.genruntimeconfig.cache
+C:/Git/MyFirstConsoleGame/MyFirstConsoleGame/obj/Debug/net6.0/ref/MyFirstConsoleGame.dll
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.csproj.AssemblyReference.cache
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.AssemblyInfoInputs.cache
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.AssemblyInfo.cs
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.csproj.CoreCompileInputs.cache
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.dll
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/refint/MyFirstConsoleGame.dll
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.pdb
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.deps.json
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.runtimeconfig.json
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.dll
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/bin/Debug/net6.0/MyFirstConsoleGame.pdb
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/MyFirstConsoleGame.genruntimeconfig.cache
+/home/mischak/Documents/School/NATIVE/BLOK C/MyFirstConsoleGame/obj/Debug/net6.0/ref/MyFirstConsoleGame.dll
